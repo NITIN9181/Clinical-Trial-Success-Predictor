@@ -71,8 +71,8 @@ To reproduce this analysis or run the dashboard on your machine:
 
 **1. Clone the Repo**
 ```bash
-git clone [https://github.com/YOUR_USERNAME/PharmaBrain-Clinical-Trial-Risk-Assessment-Engine](https://github.com/NITIN9181/PharmaBrain-Clinical-Trial-Risk-Assessment-Engine.git)
-cd clinical-trial-success-predictor
+git clone https://github.com/NITIN9181/PharmaBrain-Clinical-Trial-Risk-Assessment-Engine.git
+cd PharmaBrain-Clinical-Trial-Risk-Assessment-Engine
 ```
 
 **2. Install Dependencies**
