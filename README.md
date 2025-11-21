@@ -9,6 +9,7 @@
 **PharmaBrain** is an end-to-end Machine Learning system that predicts the operational probability of success for clinical trials. By fusing structured metadata with deep semantic analysis of trial protocols, it helps R&D teams identify high-risk studies *before* they launch.
 
 👉 **[Launch Live Dashboard](https://pharma-brain-nitin.streamlit.app/)**
+![Dashboard Preview](dashboard_preview.png)
 
 ---
 
